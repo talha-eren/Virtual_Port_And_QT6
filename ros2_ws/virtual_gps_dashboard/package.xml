@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>virtual_gps_dashboard</name>
+  <version>0.0.1</version>
+  <description>Virtual GPS Dashboard with Qt GUI for ROS2</description>
+
+  <maintainer email="talha@example.com">Talha</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <depend>rclcpp</depend>
+  <depend>std_msgs</depend>
+  <depend>sensor_msgs</depend>
+
+  <exec_depend>qt6-base-dev</exec_depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
