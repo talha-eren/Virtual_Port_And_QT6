@@ -6,9 +6,8 @@ A ROS2-based virtual GPS system with a Qt6 graphical user interface. This projec
 
 You can watch the output demonstration video below. The video file (`input.webm`) is located in the `video/` directory.
 
-<video width="800" controls>
-  <source src="video/input.webm" type="video/webm">
-  Your browser does not support the video tag. You can download the video file from the [video/](video/) directory.
+<video 
+https://github.com/user-attachments/assets/5c6e631d-444f-4c0d-a75a-4a3f25c947b7
 </video>
 
 **Note:** If the video above doesn't play, you can download and view it directly from the [`video/input.webm`](video/input.webm) file.
