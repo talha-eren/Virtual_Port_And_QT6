@@ -126,20 +126,10 @@ ros2 run virtual_gps_dashboard virtual_gps_dashboard
 
 The dashboard window will open. Click "Connect" to start receiving GPS data and see it displayed in real-time.
 
-## 📊 Features
-
-- **Real-time GPS Data Visualization**: View latitude, longitude, and altitude in the dashboard
-- **Virtual Serial Communication**: Simulates GPS data transmission through virtual serial ports
-- **ROS2 Integration**: Uses ROS2 topics for inter-process communication
-- **Modern Qt6 GUI**: User-friendly interface with connect/disconnect functionality
 
 ## 🎥 Video Output
 
 The project output demonstration can be viewed in the [`video/input.webm`](video/input.webm) file. This video shows the Qt6 dashboard in action, displaying real-time GPS coordinates and altitude values.
-
-## 📝 License
-
-This project is licensed under the MIT License - see the package.xml files for details.
 
 ## 👤 Author
 
